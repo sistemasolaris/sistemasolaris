@@ -7,7 +7,7 @@ I am a full-stack developer and computer science student. I love coding, watchin
 ## About Me
 
 - 🔭 I’m currently working on [Battleship](https://github.com/sistemasolaris/battleship)
-- 🌱 I’m currently learning Typescript and Kotlin
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: solarisclaudino@gmail.com
 - 😄 Pronouns: she/her
 
