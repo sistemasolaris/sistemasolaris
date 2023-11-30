@@ -1,13 +1,13 @@
 ### Hi 👋 I am Solaris
 
-I am a full-stack developer and computer science student. I love coding, watching movies and playing games in my spare time.
+I am a full-stack developer and computer science student. I love coding, watching movies and playing games in my spare time. Check out my projects and my [portfolio](https://sistemasolaris.github.io/portfolio/)!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solarisclaudino@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solaris-claudino-82bb10288/)
 
 ## About Me
 
-- 🔭 I’m currently working on [Battleship](https://github.com/sistemasolaris/battleship)
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on [Hermes](https://github.com/sistemasolaris/hermes)
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: solarisclaudino@gmail.com
 - 😄 Pronouns: she/her
 
