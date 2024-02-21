@@ -6,8 +6,8 @@ I am a full-stack developer and computer science student. I love coding, watchin
 
 ## About Me
 
-- 🔭 I’m currently working on [Hermes](https://github.com/sistemasolaris/hermes)
-- 🌱 I’m currently learning Spring Boot
+- 🔭 I’m currently working on [Simple Notes](https://github.com/sistemasolaris/simple-notes)
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: solarisclaudino@gmail.com
 - 😄 Pronouns: she/her
 
